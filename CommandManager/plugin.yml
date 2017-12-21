@@ -1,0 +1,5 @@
+name: CommandManager
+description: CommandApi
+main: me.bruno.CommandManager.Main
+version: 1.0
+author: jackgmpls
